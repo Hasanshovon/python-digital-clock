@@ -10,7 +10,7 @@ This Python script creates a simple digital clock using the Tkinter library. It 
 ## Usage
 
 1. Ensure you have Python installed.
-2. Run the script `digital_clock.py`.
+2. Run the script `main.py`.
 3. A window will appear showing the digital clock.
 
 ## Code Explanation

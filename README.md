@@ -1,6 +1,8 @@
 # Digital Clock using Tkinter
 
 This Python script creates a simple digital clock using the Tkinter library. It displays the current time in hours, minutes, seconds, and AM/PM format.
+![clock-output](https://github.com/Hasanshovon/python-digital-clock/assets/26182608/ebe079a3-a635-4268-bf25-d9df5e4e37a7)
+
 
 ## Requirements
 
